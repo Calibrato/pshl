@@ -28,7 +28,7 @@ echo H. Menu Theme
 echo I. Lemon Theme
 echo J. Crystal Theme
 echo K. Night Theme
-echo L. Exit
+echo X. Exit
 echo. 
 set choice=
 set /p choice=Type the number to select your preffered theme: 
